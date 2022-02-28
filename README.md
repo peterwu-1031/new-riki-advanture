@@ -13,3 +13,6 @@
 ### Fireball: 150
 ### Kill a monster: 100
 ### Heart: 100
+## How to start the game:
+### <pre> cd bin/Release </pre>
+### <pre> gameproject.exe </pre>
