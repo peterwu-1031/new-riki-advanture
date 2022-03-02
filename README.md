@@ -1,6 +1,6 @@
 # Introduction to my game project:
 ### Press (Up/Down/Right/Left) to move.
-### If you touch a monster, you will lose one heart.(3 hearts in total.)
+### If you touch a monster, you will lose one heart(3 hearts in total).
 ### If you lose all hearts, you lose the game.
 ### If you get a Golden Heart, you will get all 3 hearts back.
 ### If you get a Fireball, yout can press Space to shoot monsters.
@@ -15,4 +15,4 @@
 ### Heart: 100
 ## How to start the game:
 ### <pre> cd bin/Release </pre>
-### <pre> gameproject.exe </pre>
+### <pre> Run gameproject.exe </pre>
