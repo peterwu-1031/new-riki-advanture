@@ -1,4 +1,5 @@
-# Introduction to my game project:
+# Introduction to My Game Project:
+## Rules
 1. Press (Up/Down/Right/Left) to move.
 2. If you touch a monster, you will lose one heart(3 hearts in total).
 3. If you lose all hearts, you lose the game.
@@ -13,6 +14,6 @@
 4. Fireball: 150
 5. Kill a monster: 100
 6. Heart: 100
-# How to start the game:
+## How to start the game:
 ### <pre> cd bin/Release </pre>
 ### <pre> Run gameproject.exe </pre>
