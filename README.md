@@ -1,5 +1,5 @@
 # Introduction:
-We created a platform video game similar to the well-known "Adventures of Dino Riki" with the SDL library in an object-oriented programming style. <br />
+We created a platform video game similar to the well-known "Adventures of Dino Riki" with the SDL library in an object-oriented programming style. <br /><br />
 ![CP](https://github.com/peterwu-1031/Computer-Programming-Project/assets/56571300/b44b494b-10fc-490b-ae4d-9661c9fc19f9)
 ## Rules
 1. Press (Up/Down/Right/Left) to move.
