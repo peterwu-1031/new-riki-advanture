@@ -17,5 +17,5 @@ We created a platform video game similar to the well-known "Adventures of Dino R
 5. Kill a monster: 100
 6. Heart: 100
 ## How to start the game:
-### <pre> cd bin/Release </pre>
-### <pre> Run "gameproject.exe" </pre>
+<pre> cd bin/Release </pre>
+<pre> Run "gameproject.exe" </pre>
